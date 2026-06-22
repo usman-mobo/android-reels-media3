@@ -23,7 +23,6 @@ import com.reelssystem.reelsapp.model.Reel
 class ReelsViewHolder(view: View) : RecyclerView.ViewHolder(view) {
 
     private val title: TextView = itemView.findViewById(R.id.title)
-    private val description: TextView = itemView.findViewById(R.id.description)
     val playerView: PlayerView = itemView.findViewById(R.id.player)
     val playIcon: ImageView = itemView.findViewById(R.id.play_icon)
 
