@@ -7,7 +7,11 @@ distance-based preloading, and disk caching for instant scroll-back.
 This isn't a tutorial app. It's a stripped-down version of patterns I've used in
 production reels/short-video features, rebuilt from scratch to be readable end to end.
 
-![demo placeholder](docs/demo-video.mp4)
+## Demo
+
+![Android Reels Demo](docs/demo.gif)
+
+Full video: [demo-video.mp4](docs/demo-video.mp4)
 
 ---
 
