@@ -76,7 +76,7 @@ position. In a production infinite feed (backed by `PagingDataAdapter`), items
 have to be explicitly added and removed from the preload manager as they enter
 and exit a sliding window — without that, registered preload sources accumulate
 indefinitely and the app eventually hits an `OutOfMemoryError`. That pattern is
-covered in the [blog post](#links) rather than this repo, since it only makes
+covered in the [blog post](https://usmanali.dev/blog/production-reels-architecture-android) rather than this repo, since it only makes
 sense in the context of pagination.
 
 ### What's deliberately left out
@@ -172,10 +172,10 @@ ui/
 
 ## Links
 
-- Blog: full architecture write-up, decisions, and the production sliding-window
-  pattern — [placeholder]
-- LinkedIn: [placeholder]
-- Portfolio: usmanali.dev
+- Blog: full architecture write-up, decisions, and the production sliding-window pattern — [Production Reels Architecture](https://usmanali.dev/blog/production-reels-architecture-android)
+- LinkedIn: [Usman Ali](https://www.linkedin.com/in/usman-ali-b8a13b384)
+- Portfolio: [usmanali.dev](https://usmanali.dev)
+
 
 ---
 
